@@ -5,10 +5,8 @@ from tqdm import tqdm  # Import tqdm for progress visualization
 
 from numba import njit
 
-import copy
 
 import numpy as np
-import scipy as scy
 import math as math
 
 
